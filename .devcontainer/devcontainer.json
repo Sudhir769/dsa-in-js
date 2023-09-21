@@ -31,7 +31,10 @@
 			
 		}
 		
-	 }
+	},
+	"features": {
+		"ghcr.io/devcontainers-contrib/features/live-server:1": {}
+	}
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
